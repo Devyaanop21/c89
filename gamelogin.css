@@ -1,0 +1,20 @@
+body
+{
+    background-image: url("DAY TIME.png");
+  
+}
+#play1
+{
+  
+    text-align: center;
+background-color: black;
+opacity: 0.5;
+
+}
+#play2
+{
+    text-align: center;
+background-color: black;
+border-color: whitesmoke;
+opacity: 0.5;
+}
